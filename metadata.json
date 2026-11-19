@@ -1,0 +1,8 @@
+{
+  "name": "Remix Omran Broker Hub - بوابة وسطاء عمران",
+  "description": "Bilingual mobile broker application and Google Sheets Apps Script ecosystem for Omran Real Estate brokers with commissions tracking, appointment requests, support tickets, and Play Store native deployment architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
